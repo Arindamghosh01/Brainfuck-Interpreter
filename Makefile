@@ -1,5 +1,5 @@
-CC=gcc
-CXX=g++
+CC=gcc.exe
+CXX=g++.exe
 INPUT=brainfuck.cpp
 OUTPUT=brainfuck
 CPPFLAGS=-std=c++17 -Wall -Wfatal-errors -Wpedantic -Wextra
