@@ -1,3 +1,5 @@
 in
 *.b
+*.bf
+*.txt
 *.exe
